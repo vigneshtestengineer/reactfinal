@@ -1,5 +1,6 @@
 {
-  "name": "final_project_react",
+  "homepage": "https://vigneshtestengineer.github.io/reactfinal",
+  "name": "finalproject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
