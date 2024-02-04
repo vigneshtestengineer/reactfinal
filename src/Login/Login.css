@@ -419,9 +419,9 @@ input[type="checkbox"] {
   height: 24px;
   transition: all 0.1s linear;
 }
-input[type="checkbox"]:checked {
+/* input[type="checkbox"]:checked {
   background: url(../img/check-mark.png) #394e64 center no-repeat;
-}
+} */
 input[type="checkbox"]:focus {
   outline: 0 none;
   box-shadow: none;
@@ -476,7 +476,7 @@ input[type="checkbox"]:focus {
   -o-border-radius: 0;
   border-radius: 0;
   padding: 15px;
-  background: url(../img/arrow-down.png) 98% no-repeat #50657b;
+/*   background: url(../img/arrow-down.png) 98% no-repeat #50657b; */
 }
 .custom-select:focus {
   outline: 0;
